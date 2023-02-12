@@ -1,3 +1,3 @@
-const backendUrl = 'https://localhost:4000';
+const backendUrl = 'https://stackoverflow-clone-backend-m9ue.onrender.com';
 
 export default backendUrl;
